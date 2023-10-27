@@ -1,4 +1,4 @@
-# WebSocket Chat with Golang backend
+# WebSocket Chat with JavaScript at the front end and Go at the backend
 
 ### Local environment CLI run
 ```bash
